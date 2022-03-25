@@ -120,7 +120,7 @@ also vorher nach bzw. beachte unsere gelben Rollen.&lt;/li&gt;
 und können an einzelne Accounts oder ganze Rollen gerichtet sein (s.
 die nächste Frage).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Mehr Bergiffe und Erklärungen findest du in unserem &lt;a href=&#34;https://aspecgerman.de/discord/glossar/&#34;&gt;Glossar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mehr Bergiffe und Erklärungen findest du in unserem &lt;a href=&#34;https://aspecgerman.de/discord/glossar/&#34;&gt;Glossar&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;ich-werde-darauf-hingewiesen-dass-ich-jemanden-gepingt-habe-was-habe-ich-getan-und-wie-kann-ich-es-lassen&#34;&gt;Ich werde darauf hingewiesen, dass ich jemanden gepingt habe. Was habe ich getan und wie kann ich es lassen?&lt;/h3&gt;
 &lt;p&gt;Pingen ist eine Funktion, bei der Discord durch Töne, rote Hinweise und
 Farbunterlegung auf Nachrichten aufmerksam macht. Es gibt zwei
@@ -135,9 +135,8 @@ auf &lt;code&gt;@AN&lt;/code&gt; bzw. &lt;code&gt;@ON&lt;/code&gt; ausstellen.&l
 &lt;p&gt;Es gibt einige Menschen, die aus verschiedenen Gründen nicht gepingt
 werden möchten. Auf dem Server haben wir deswegen &amp;ldquo;gelbe Rollen&amp;rdquo;, die
 beschreiben, wenn Menschen nicht gepingt werden wollen und sich schnell
-über das &lt;img src=&#34;https://raw.githubusercontent.com/aspec-german/discord-emojis/main/ausrufezeichen.png&#34; alt=&#34;Ein gelbesAusrufezeichen&#34;&gt;
-neben den Usernamen erkennen lassen. Bitte achte darauf, diese Personen
-nicht zu pingen.&lt;/p&gt;
+über das gelbe Ausrufezeichen (&lt;i class=&#39;fa-solid fa-exclamation   &#39; style=&#39;color:#d2e700&#39; aria-hidden=&#39;true&#39; &gt;&lt;/i&gt;) neben den Usernamen erkennen lassen. Bitte achte
+darauf, diese Personen nicht zu pingen.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;FAQ_ping-2.png&#34; alt=&#34;Darstellung aller Rollen eines members mit Hervorhebung der no-pings,no-@-Rolle&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;ich-möchte-auf-eine-nachricht-mit-einem-emoji-reagieren-aber-nichts-passiert-was-ist-los&#34;&gt;Ich möchte auf eine Nachricht mit einem Emoji reagieren, aber nichts passiert. Was ist los?&lt;/h3&gt;
 &lt;p&gt;Möglicherweise hat dich die Person blockiert, von der die Nachricht
@@ -204,11 +203,11 @@ mediieren. Schreib uns gerne an!&lt;/p&gt;
 &lt;h2 id=&#34;anonyme-nachrichten-mit-voltaire&#34;&gt;Anonyme Nachrichten mit Voltaire&lt;/h2&gt;
 &lt;p&gt;Es gibt die Möglichkeit, anonyme Nachrichten zu senden. Dazu schickst du
 unserem Bot @voltaire eine DM in folgendem Format:&lt;/p&gt;
-&lt;p&gt;an die Community in #feedback-fragen-mitmachen:&lt;/p&gt;
+&lt;p&gt;An die Community in #feedback-fragen-mitmachen:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;send_server &amp;#34;Aspec*German&amp;#34; feedback-fragen-mitmachen &amp;lt;hier_dein_text&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;an das ganze Team:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An das ganze Team:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;send_server &amp;#34;Aspec*German&amp;#34; feedback-an-das-team &amp;lt;hier_dein_text&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;an die @Community-Care:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An die @Community-Care:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;send_server &amp;#34;Aspec*German&amp;#34; commcare-gebraucht &amp;lt;hier_dein_text&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Ersetze in den Beispielen &lt;code&gt;&amp;lt;hier_dein_Text&amp;gt;&lt;/code&gt; inklusive der Klammern mit
 deiner eigenen Nachricht. Sie landet dann im passenden Kanal und ist
@@ -230,30 +229,30 @@ finden.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;&amp;amp;play [Name des Videos]&lt;/code&gt; Der Bot sucht bei YouTube und nimmt das
 erste Video. Genauere Titel oder der Link führen zu besseren
-Ergebnissen.&lt;/li&gt;
+Ergebnissen&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;&amp;amp;skip&lt;/code&gt; Überspringt das aktuelle Lied in der Warteschlange&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;&amp;amp;search&lt;/code&gt; Ermöglicht die Auswahl auf Vorschlägen die der Bot bei
 Youtube findet&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;&amp;amp;queue&lt;/code&gt; Zeigt die aktuelle Warteschlange&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;&amp;amp;np&lt;/code&gt; Nennt das aktuelle Lied&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;&amp;amp;stop&lt;/code&gt; Beendet die Wiedergabe und der Bot verlässt den Voice-Chat.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;amp;stop&lt;/code&gt; Beendet die Wiedergabe und der Bot verlässt den Voice-Chat&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;weitere Befehle findet ihr in der &lt;a href=&#34;https://www.probot.io/commands&#34;&gt;Dokumentation von
-Probot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weitere Befehle findet ihr in der &lt;a href=&#34;https://www.probot.io/commands&#34;&gt;Dokumentation von
+Probot&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;umfragen-mit-easypoll&#34;&gt;Umfragen mit Easypoll&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;mit dem Slash-Befehl &lt;code&gt;/poll&lt;/code&gt; könnt ihr Umfragen erstellen in allen
+&lt;li&gt;Mit dem Slash-Befehl &lt;code&gt;/poll&lt;/code&gt; könnt ihr Umfragen erstellen in allen
 Kanälen, die “easypoll” in der Kanalbeschreibung haben. Discord
 begleitet euch dabei anhand von visuellen Hinweisen durch die
 Erstellung.&lt;/li&gt;
-&lt;li&gt;eigene Emojis: Wollt ihr statt 🅰️ 🅱️ usw. spezielle Emojis (nur
+&lt;li&gt;Eigene Emojis: Wollt ihr statt 🅰️ 🅱️ usw. spezielle Emojis (nur
 Discord-eigene!) verwenden, nutzt einfach das Emoji vor eurer Antwort
 (also z.B. 🙈 test).&lt;/li&gt;
 &lt;li&gt;Mehrfachantworten: Mit maxchoices könnt ihr die maximale Anzahl an
 Reaktionen bestimmen, die eine Person abgeben darf.&lt;/li&gt;
-&lt;li&gt;mehr Infos gibt es im &lt;a href=&#34;https://easypoll.bot/faq&#34;&gt;FAQ von Easypoll&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Mehr Infos gibt es im &lt;a href=&#34;https://easypoll.bot/faq&#34;&gt;FAQ von Easypoll&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;geburtstagsrolle-mit-birthday-bot&#34;&gt;Geburtstagsrolle mit Birthday Bot&lt;/h2&gt;
 &lt;p&gt;Setzt euren Geburtstag in
@@ -289,21 +288,22 @@ zum &lt;strong&gt;Kalenderexport&lt;/strong&gt; kann erstellt werden mit:&lt;/p&
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Analog kann eine &lt;strong&gt;Liste an (zukünftigen) Events&lt;/strong&gt; mit &lt;code&gt;!s list&lt;/code&gt;
 abgerufen werden für den aktuellen, mehrere oder alle Kanäle des
 Servers.&lt;/p&gt;
-&lt;p&gt;Mehr Info gibt es &lt;a href=&#34;https://sesh.fyi/manual/&#34;&gt;im Manual&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mehr Info gibt es im &lt;a href=&#34;https://sesh.fyi/manual/&#34;&gt;Manual&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Noch etwas Netiquette zu Sesh:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;bei Terminen für &lt;strong&gt;geschlossene Gruppen&lt;/strong&gt; schreibt bitte einen Hinweis in den Termintitel&lt;/li&gt;
 &lt;li&gt;bitte erstellt &lt;strong&gt;interne Orga-Termine&lt;/strong&gt; in euren internen Kanälen&lt;/li&gt;
 &lt;li&gt;bitte &lt;strong&gt;löscht Termine&lt;/strong&gt;, wenn sie abgesagt werden&lt;/li&gt;
 &lt;li&gt;bei &lt;strong&gt;spontanen Treffen&lt;/strong&gt; müsst ihr nicht nachträglich einen Termin
 anlegen, gebt dann aber bitte im passenden Textkanal Bescheid, um
-welche Art Treffen es sich handelt.&lt;/li&gt;
+welche Art Treffen es sich handelt&lt;/li&gt;
 &lt;/ul&gt;
 </description>
       
     </item>
     
     <item>
-      <title>Diversität Kommunikation</title>
+      <title>Diversität &amp; Kommunikation</title>
       <link>https://aspecgerman.de/discord/diversitaet-kommunikation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -335,7 +335,7 @@ eindeutig möglich noch sinnvoll ist. Hierzu gibt es aktuell zwei
 Möglichkeiten: 1) das/die Pronomen in Klammern hinter den eigenen
 &lt;strong&gt;Namen&lt;/strong&gt; schreiben (also den Nickname für diesen Discord-Server ändern)
 2) im Channel
-&lt;a href=&#34;https://discord.com/channels/690184051939606582/691775906838216784&#34;&gt;#rollen-kanäle&lt;/a&gt;
+&lt;a href=&#34;https://discord.com/channels/690184051939606582/953960956541673532&#34;&gt;#rollen-pronomen-gelbe&lt;/a&gt;
 die eigenen Pronomen anklicken, sie werden dann automatisch in den
 &lt;strong&gt;Rollen&lt;/strong&gt; ergänzt (Rollen gelten nur für diesen Server, sie werden
 nicht in andere mitgenommen und nur dann angezeigt, wenn der Name
@@ -471,7 +471,7 @@ für ihre Reaktionen.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vermeidung von Triggern&lt;/strong&gt;: Respektiere die thematische Ausrichtung
 der verschiedenen Channels und benutze für sensible Themen Content
 Notes und die Spoilerfunktion oder Threads (Anleitung in
-&lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discord-Anleitungen&lt;/a&gt;).&lt;/li&gt;
+&lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discordanleitungen&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;No-Gos&lt;/strong&gt;: Sprich niemals jemandem ab, ein Trauma erlebt oder etwas
 als traumatisierend erlebt zu haben. Setze niemanden unter Druck, dir
 über eine eigene Traumaerfahrung zu berichten. Außerdem: Nutze den
@@ -484,7 +484,7 @@ dieser Community werden dies respektieren und entsprechend handeln
 Postings o.ä.). Du kannst dich außerdem jederzeit aus Unterhaltungen
 herausnehmen. Du darfst gerne Feedback zu triggernden Diskussionen in
 &lt;a href=&#34;https://discord.com/channels/690184051939606582/690895470897135636&#34;&gt;#feedback-fragen-mitmachen&lt;/a&gt;
-schreiben (auch anonym möglich, s. &lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discord Anleitungen&lt;/a&gt;).&lt;/li&gt;
+schreiben (auch anonym möglich, s. &lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discordanleitungen&lt;/a&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;viele-sein&#34;&gt;Viele Sein&lt;/h2&gt;
 &lt;p&gt;Auf unserem Server gibt es Nutzer*innen, die sich in irgendeiner Form
@@ -1090,7 +1090,7 @@ sein.&lt;/p&gt;
 &lt;a href=&#34;https://interventionen.dissens.de/fuer-jugendliche/links-anlaufstellen&#34;&gt;Intervention für geschlechtliche und sexuelle
 Vielfalt&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Und Angebote speziell für den Umgang mit dem Arbeitsumfeld sind bei
-&lt;a href=&#34;https://www.proutatwork.de/lgbtiq-beratungsstellen/&#34;&gt;PROUT AT WORK&lt;/a&gt;
+&lt;a href=&#34;https://www.proutatwork.de/angebote/&#34;&gt;PROUT AT WORK&lt;/a&gt;
 gesammelt.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Berlin / Brandenburg&lt;br&gt;
@@ -1119,11 +1119,11 @@ gesammelt.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Leipzig&lt;br&gt;
-&lt;a href=&#34;https://www.rosalinde-leipzig.de/de/beratung/&#34;&gt;RosaLinde e.V.&lt;/a&gt; (Beratungsangebot (hier wird Asexualität ausdrücklich mit erwähnt))&lt;/li&gt;
+&lt;a href=&#34;https://www.rosalinde-leipzig.de/de/&#34;&gt;RosaLinde e.V.&lt;/a&gt; (Beratungsangebot (hier wird Asexualität ausdrücklich mit erwähnt))&lt;/li&gt;
 &lt;li&gt;Mainz&lt;br&gt;
-&lt;a href=&#34;https://sichtbar-mainz.de/&#34;&gt;Bar jeder Sicht&lt;/a&gt; (Beratungsangebot)&lt;/li&gt;
+&lt;a href=&#34;https://barjedersicht.de/beratung/&#34;&gt;Bar jeder Sicht&lt;/a&gt; (Beratungsangebot)&lt;/li&gt;
 &lt;li&gt;Mannheim / Rhein-Neckar Region&lt;br&gt;
-&lt;a href=&#34;http://plus-mannheim.de/index.php&#34;&gt;Plus. Psychologische Lesben- und Schwulenberatung Rhein-Neckar e.V.&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://plus-mannheim.de/index.php/beratung-55&#34;&gt;Plus. Psychologische Lesben- und Schwulenberatung Rhein-Neckar e.V.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ruhrgebiet und Niederrhein&lt;br&gt;
 &lt;a href=&#34;https://together-virtuell.de/fa/wir-fuer-euch/deine-treffpunkte/&#34;&gt;together&lt;/a&gt;
 bzw. &lt;a href=&#34;https://together-virtuell.de/fa/helpzone/wir-fuer-dich/&#34;&gt;together
@@ -1238,17 +1238,15 @@ erklären.&lt;/p&gt;
 &lt;h2 id=&#34;ressourcen-dokumente&#34;&gt;Ressourcen-Dokumente&lt;/h2&gt;
 &lt;p&gt;Wir haben zwei umfangreiche Dokumente für Ressourcen!! Weiterhin gilt:
 Empfehlungen zur Ergänzung gerne in &lt;a href=&#34;https://discord.com/channels/690184051939606582/713317689048825906&#34;&gt;#ressourcen-input&lt;/a&gt; einstellen!&lt;/p&gt;
-&lt;p&gt;Eins für Ressourcen, die speziell für den aspec* Bereich sind.
+&lt;p&gt;Eins für &lt;a href=&#34;https://docs.google.com/document/d/1oHz9-4AC7mQF8h9fTx2B9DUPBt4N-OBn_1UVB0mk9_Q/edit?usp=sharing&#34;&gt;Ressourcen, die speziell für den aspec* Bereich&lt;/a&gt; sind.
 Hauptsächlich zum aromantischen und asexuellen Spektrum, aber hier
 findet ihr auch weiterhin die Ressourcen, die sich ausdrücklich an junge
 Menschen richten. Außerdem die Liste der offline Treffen, eine Liste von
 Queeren Beratungsstellen und Listen mit Blogs und Youtube Kanälen.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1oHz9-4AC7mQF8h9fTx2B9DUPBt4N-OBn_1UVB0mk9_Q/edit?usp=sharing&#34;&gt;https://docs.google.com/document/d/1oHz9-4AC7mQF8h9fTx2B9DUPBt4N-OBn_1UVB0mk9_Q/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Das zweite Dokument beinhaltet &amp;ldquo;allgemeine&amp;rdquo; Ressource, dass heißt
-aktuell vor allem Inhalte zu Gender Identität oder allgemeinen Queeren
-Themen. Aber auch einige Sachen zu Intersektionalität oder
+&lt;p&gt;Das zweite Dokument beinhaltet &lt;a href=&#34;https://docs.google.com/document/d/1mqG8DIzYYxScaOXTcgeSm5icuhIvJ69R8ueGM6saBHw/edit?usp=sharing&#34;&gt;&amp;ldquo;allgemeine&amp;rdquo; Ressourcen&lt;/a&gt;, das heißt
+aktuell vor allem Inhalte zu Genderidentität oder allgemeinen queeren
+Themen, aber auch einige Sachen zu Intersektionalität oder
 Neurodiversität.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1mqG8DIzYYxScaOXTcgeSm5icuhIvJ69R8ueGM6saBHw/edit?usp=sharing&#34;&gt;https://docs.google.com/document/d/1mqG8DIzYYxScaOXTcgeSm5icuhIvJ69R8ueGM6saBHw/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
 </description>
       
     </item>
@@ -1293,14 +1291,14 @@ thematisch passende Channel.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;das Team &lt;strong&gt;moderiert&lt;/strong&gt; die Channels, &lt;strong&gt;entwickelt&lt;/strong&gt; den Server weiter
+&lt;li&gt;Das Team &lt;strong&gt;moderiert&lt;/strong&gt; die Channels, &lt;strong&gt;entwickelt&lt;/strong&gt; den Server weiter
 und hält unseren Server in &lt;strong&gt;Vernetzung&lt;/strong&gt; zu regionalen aspec
 Communities, anderen aspec Online-Communities, andersthematischen
 queeren Communities und deutschsprachigem wie internationalem aro und
 ace Aktivismus.&lt;/li&gt;
-&lt;li&gt;das Team möchte möglichst &lt;strong&gt;wenig Hierarchien&lt;/strong&gt; aufbauen, und wir
+&lt;li&gt;Das Team möchte möglichst &lt;strong&gt;wenig Hierarchien&lt;/strong&gt; aufbauen, und wir
 möchten euch gerne alle am Server beteiligen, nutzt dafür gerne den
-Channel &lt;a href=&#34;https://discord.com/channels/690184051939606582/690895470897135636&#34;&gt;#feedback-fragen-mitmachen&lt;/a&gt;&lt;/li&gt;
+Channel &lt;a href=&#34;https://discord.com/channels/690184051939606582/690895470897135636&#34;&gt;#feedback-fragen-mitmachen&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Alle Teamrollen dürfen jederzeit&lt;/strong&gt; aus den Channels heraus
 &lt;strong&gt;angepingt werden.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Lasst uns bitte unsere Arbeit selbst machen. Wenn ihr während einer
@@ -1321,7 +1319,7 @@ Nachrichten bevorzugt an Teamleute, die gerade online sind.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;struktur-des-serverteams&#34;&gt;Struktur des Serverteams&lt;/h2&gt;
 &lt;h3 id=&#34;technik&#34;&gt;Technik&lt;/h3&gt;
-&lt;p&gt;Zuständig für die &lt;strong&gt;Funktionalität und&lt;/strong&gt; den &lt;strong&gt;Internetauftritt des
+&lt;p&gt;Zuständig für die &lt;strong&gt;Funktionalität&lt;/strong&gt; und den &lt;strong&gt;Internetauftritt des
 Servers&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;konfiguriert den Server&lt;/li&gt;
@@ -1331,13 +1329,14 @@ Servers&lt;/strong&gt;:&lt;/p&gt;
 &lt;h3 id=&#34;community-care&#34;&gt;Community Care&lt;/h3&gt;
 &lt;p&gt;Zuständig für das &lt;strong&gt;Wohlergehen&lt;/strong&gt; der Menschen auf dem Server:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;schlichtet Konfliktsituationen in Kanälen&lt;/li&gt;
+&lt;li&gt;schlichtet nach Konfliktsituationen in Kanälen&lt;/li&gt;
 &lt;li&gt;kümmert sich um User, wenn es ihnen nicht gut zu gehen scheint&lt;/li&gt;
 &lt;li&gt;führt vertrauliche Gespräche per DMs&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;moderation&#34;&gt;Moderation&lt;/h3&gt;
 &lt;p&gt;Zuständig für die &lt;strong&gt;Einhaltung der Serverregeln&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;greift in Diskussionen ein&lt;/li&gt;
 &lt;li&gt;sucht bei Regelverstößen den Kontakt&lt;/li&gt;
 &lt;li&gt;spricht Sanktionen aus&lt;/li&gt;
 &lt;/ul&gt;
@@ -1354,11 +1353,11 @@ die Moderation übernehmen.&lt;/p&gt;
 &lt;li&gt;legt Serverregeln fest&lt;/li&gt;
 &lt;li&gt;schreibt Ankündigungen&lt;/li&gt;
 &lt;li&gt;kümmert sich um E-Mail-Verkehr&lt;/li&gt;
-&lt;li&gt;ist zuständig für Infotexte, Kanalbeschreibungen, angepinnte
+&lt;li&gt;ist zuständig für diese Website, Infotexte, Kanalbeschreibungen, angepinnte
 Nachrichten etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;regio--projekte--events&#34;&gt;Regio-, Projekte &amp;amp; Events&lt;/h3&gt;
-&lt;p&gt;TODO&lt;/p&gt;
+&lt;p&gt;Dieser Bereich ist &lt;em&gt;in Arbeit&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;weitere-rollen-außerhalb-des-teams&#34;&gt;Weitere Rollen außerhalb des Teams&lt;/h2&gt;
 &lt;h3 id=&#34;channelmoderation-und-buchclub-orga&#34;&gt;Channelmoderation und Buchclub-Orga&lt;/h3&gt;
 &lt;p&gt;Beschränkt sich auf einzelne Kanäle auf diesem Server:&lt;/p&gt;
@@ -1382,7 +1381,7 @@ Buchclubs&lt;/li&gt;
 Folgendem aufgeführt. Dabei ist die hier aufgeführte Reihenfolge
 unabhängig von der Anwendung.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Wir verweisen auf &lt;strong&gt;passende Kanäle&lt;/strong&gt; und &lt;strong&gt;ContentNotes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Wir verweisen auf &lt;strong&gt;passende Kanäle&lt;/strong&gt; und &lt;strong&gt;Content Notes&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Bei unangemessenen Nachrichten bitten wir um &lt;strong&gt;Korrekturen und
 Entschuldigungen&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Bei kritischen Situationen oder regelmäßig auftretendem und
