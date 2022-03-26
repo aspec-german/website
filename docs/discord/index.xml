@@ -163,10 +163,8 @@ Zuhörer*innen&lt;/li&gt;
 Cursor markieren und dann auf das &lt;strong&gt;Auge-Symbol&lt;/strong&gt; klicken. Vor dem Text
 gibst du eine kurze Notiz, was sich darin verbirgt.&lt;/p&gt;
 &lt;p&gt;Beispiel:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;CN Sexualität ||Text oder Link||&lt;/code&gt; -&amp;gt; CN Sexualität 
-&lt;span class=&#34;spoiler&#34;&gt;Text
-oder Link&lt;/span&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CN Sexualität ||Text oder Link||&lt;/code&gt; -&amp;gt; CN Sexualität &lt;span class=&#34;spoiler&#34;&gt;Text
+oder Link&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;threads&#34;&gt;Threads&lt;/h3&gt;
 &lt;p&gt;Threads sind &lt;strong&gt;temporäre Räume&lt;/strong&gt;, die wie untergeordnete Kanäle
 funktionieren. Um einen Thread zu erstellen, zeige auf eine Nachricht
