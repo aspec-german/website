@@ -462,15 +462,16 @@ Begriffe können auch gezielt über die Suche gefunden werden. Diese wird
 über die Tastenkombination &amp;ldquo;Strg&amp;rdquo; + &amp;ldquo;f&amp;rdquo; erreicht.&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;/gen, /hj, /j, /s, /srs&lt;/dt&gt;
-&lt;dd&gt;Tonindikatoren, die die Intention hinter Aussagen, Beiträgen oder
+&lt;dd&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tone_indicator&#34;&gt;Tonindikatoren &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;, die die Intention hinter Aussagen, Beiträgen oder
 Fragen verdeutlichen sollen.
 &lt;ul&gt;
-&lt;li&gt;/gen: general (dt.:generell gemeint ohne beispielsweise angreifende Intention)&lt;/li&gt;
+&lt;li&gt;/gen: general (dt.: generell gemeint ohne beispielsweise angreifende Intention)&lt;/li&gt;
 &lt;li&gt;/j: joke (dt.: Witz)&lt;/li&gt;
 &lt;li&gt;/hj: half-joking (dt.: halber Witz beziehungsweise nur halb witzig gemeint)&lt;/li&gt;
 &lt;li&gt;/s: sarcasm (dt.: Sarkasmus)&lt;/li&gt;
 &lt;li&gt;/srs: serious (dt.: ernsthaft, ernst gemeint)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Noch viel mehr gibt es &lt;a href=&#34;https://toneindicators.carrd.co&#34;&gt;hier &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; und &lt;a href=&#34;https://tonetags.carrd.co&#34;&gt;dort &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/dd&gt;
 &lt;dt&gt;+1&lt;/dt&gt;
 &lt;dd&gt;drückt Zustimmung aus; kann auch für eine weitere Person stehen&lt;/dd&gt;
@@ -930,6 +931,7 @@ Servers&lt;/strong&gt;:&lt;/p&gt;
 &lt;li&gt;verwaltet Bots &amp;amp; Emojis&lt;/li&gt;
 &lt;li&gt;wartet die Website&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Mitglieder: max, yana, yoshi&lt;/p&gt;
 &lt;h3 id=&#34;community-care&#34;&gt;Community Care &lt;a href=&#34;#community-care&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Zuständig für das &lt;strong&gt;Wohlergehen&lt;/strong&gt; der Menschen auf dem Server:&lt;/p&gt;
 &lt;ul&gt;
@@ -937,6 +939,7 @@ Servers&lt;/strong&gt;:&lt;/p&gt;
 &lt;li&gt;kümmert sich um User, wenn es ihnen nicht gut zu gehen scheint&lt;/li&gt;
 &lt;li&gt;führt vertrauliche Gespräche per DMs&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Mitglieder: Finn Aylar, yoshi&lt;/p&gt;
 &lt;h3 id=&#34;moderation&#34;&gt;Moderation &lt;a href=&#34;#moderation&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Zuständig für die &lt;strong&gt;Einhaltung der Serverregeln&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -949,6 +952,7 @@ gehören, wie manche Fabelwelten oder der Buchclub. Grund dafür ist, dass
 Teammitglieder nur in den Fabelwelten drin sind, zu denen wir uns
 identifizieren, um den Safe Space zu wahren, und daher interne Personen
 die Moderation übernehmen.&lt;/p&gt;
+&lt;p&gt;Mitglieder: Alec, Levi, Malle&lt;/p&gt;
 &lt;h3 id=&#34;serverorga&#34;&gt;Serverorga &lt;a href=&#34;#serverorga&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Zuständig für &lt;strong&gt;Repräsentation des Servers&lt;/strong&gt; nach innen und außen:&lt;/p&gt;
 &lt;ul&gt;
@@ -957,11 +961,29 @@ die Moderation übernehmen.&lt;/p&gt;
 &lt;li&gt;legt Serverregeln fest&lt;/li&gt;
 &lt;li&gt;schreibt Ankündigungen&lt;/li&gt;
 &lt;li&gt;kümmert sich um E-Mail-Verkehr&lt;/li&gt;
-&lt;li&gt;ist zuständig für diese Website, Infotexte, Kanalbeschreibungen, angepinnte
-Nachrichten etc.&lt;/li&gt;
+&lt;li&gt;ist zuständig für diese Website, Infotexte, Kanalbeschreibungen,
+angepinnte Nachrichten etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;regio--projekte--events&#34;&gt;Regio-, Projekte &amp;amp; Events &lt;a href=&#34;#regio--projekte--events&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Dieser Bereich ist &lt;em&gt;in Arbeit&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Mitglieder: Cupia, Finn Aylar, rewq_z13, yana&lt;/p&gt;
+&lt;h3 id=&#34;regio-projekte--events&#34;&gt;Regio, Projekte &amp;amp; Events &lt;a href=&#34;#regio-projekte--events&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Zuständig für &lt;strong&gt;Regionale Communities, Projekte und Events&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;organisiert Events auf dem Server (bspw. zur Ace Week, zur Aro Week,
+zum International Asexuality Day)&lt;/li&gt;
+&lt;li&gt;produziert Inhalte über aspec Themen für Social Media&lt;/li&gt;
+&lt;li&gt;organisiert regelmäßige Communitytreffen auf dem Server&lt;/li&gt;
+&lt;li&gt;ist mit fast allen aspec Orgapersonen und Aktivist*innen im
+deutschsprachigen Raum vernetzt&lt;/li&gt;
+&lt;li&gt;stellt Regio-Gruppen und Projekten Austausch- und Organisationsräume
+zur Verfügung&lt;/li&gt;
+&lt;li&gt;etabliert für Serveruser*innen direkten Zugang zu passenden
+Regio-Treffen, sofern vorhanden&lt;/li&gt;
+&lt;li&gt;unterstützt neue Projekte und Initiativen auf dem Server, u.a. ist so
+der &lt;a href=&#34;http://inspektren.eu&#34;&gt;Podcast Inspektren &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; entstanden&lt;/li&gt;
+&lt;li&gt;setzt für Regio, Projekte und Events benötigte technische Änderungen
+selbstständig um&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mitglieder: FrederickS, Lea, Mäx&lt;/p&gt;
 &lt;h2 id=&#34;weitere-rollen-außerhalb-des-teams&#34;&gt;Weitere Rollen außerhalb des Teams &lt;a href=&#34;#weitere-rollen-au%c3%9ferhalb-des-teams&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;channelmoderation-und-buchclub-orga&#34;&gt;Channelmoderation und Buchclub-Orga &lt;a href=&#34;#channelmoderation-und-buchclub-orga&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Beschränkt sich auf einzelne Kanäle auf diesem Server:&lt;/p&gt;
