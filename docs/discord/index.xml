@@ -118,10 +118,11 @@ Button &lt;code&gt;Beitreten&lt;/code&gt; (mobil). Mehr Info dazu &lt;a href=&#3
 Symbolen formatiert werden. Infos dazu gibt es &lt;a href=&#34;https://support.discord.com/hc/de/articles/210298617-Markdown-Text-101-Chat-Formatierung-Fett-Kursiv-Unterstrichen-&#34;&gt;in der Discord
 Hilfe &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;blockierungen&#34;&gt;Blockierungen &lt;a href=&#34;#blockierungen&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Es ist möglich, andere User*innen per Rechtsklick auf den Benutzernamen
-und die Option blockieren für sich persönlich zu blockieren. Wenn es
-nicht lösbare Konflikte gibt oder um etwas Abstand zu gewinnen, kann
-dies eine technische Möglichkeit sein. Konsequenzen sind:&lt;/p&gt;
+&lt;p&gt;Es ist möglich, andere User*innen per Rechtsklick auf den
+Benutzungsnamen und die Option blockieren für sich persönlich zu
+blockieren. Wenn es nicht lösbare Konflikte gibt oder um etwas Abstand
+zu gewinnen, kann dies eine technische Möglichkeit sein. Konsequenzen
+sind:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;die &lt;strong&gt;Nachrichten&lt;/strong&gt; dieser Person werden für dich &lt;strong&gt;versteckt&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;die Person kann dir &lt;strong&gt;keine DMs&lt;/strong&gt; mehr schreiben&lt;/li&gt;
@@ -130,31 +131,37 @@ oder dich &lt;strong&gt;pingen&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Der letzte Punkt bedeutet, dass eine von dir blockierte Person auch
 nicht auf Umfragen reagieren kann, die du schreibst. Benutze daher für
-Umfragen immer unseren Bot @EasyPoll (s. &lt;a href=&#34;#umfragen-mit-easypoll&#34;&gt;Umfragen mit
-Easypoll&lt;/a&gt;). Wir möchten dir ans Herz legen,
-bei Konflikten mit der @Community-Care Kontakt aufzunehmen: Wir helfen
-dir sehr gerne, haben ein offenes Ohr und können zum Beispiel Gespräche
-mediieren. Schreib uns gerne an!&lt;/p&gt;
+Umfragen immer unseren &lt;a href=&#34;https://easypoll.bot&#34;&gt;Bot @EasyPoll &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; (s.
+&lt;a href=&#34;#umfragen-mit-easypoll&#34;&gt;Umfragen mit Easypoll&lt;/a&gt;). Wir möchten dir ans
+Herz legen, bei Konflikten mit der @Community-Care Kontakt aufzunehmen:
+Wir helfen dir sehr gerne, haben ein offenes Ohr und können zum Beispiel
+Gespräche mediieren. Schreib uns gerne an!&lt;/p&gt;
 &lt;h2 id=&#34;bots&#34;&gt;Bots &lt;a href=&#34;#bots&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Wir nutzen diverse Bots, um Discord für uns und euch
 attraktiver/einfacher/besser zu gestalten.&lt;/p&gt;
 &lt;h3 id=&#34;voltaire&#34;&gt;Anonyme Nachrichten mit Voltaire &lt;a href=&#34;#voltaire&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Es gibt die Möglichkeit, anonyme Nachrichten zu senden. Dazu schickst du
-unserem Bot @voltaire eine DM in folgendem Format:&lt;/p&gt;
-&lt;p&gt;An die Community in #feedback-fragen-mitmachen:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;send_server &amp;#34;Aspec*German&amp;#34; feedback-fragen-mitmachen &amp;lt;hier_dein_text&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An das ganze Team:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;send_server &amp;#34;Aspec*German&amp;#34; feedback-an-das-team &amp;lt;hier_dein_text&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An die @Community-Care:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;send_server &amp;#34;Aspec*German&amp;#34; commcare-gebraucht &amp;lt;hier_dein_text&amp;gt;
+&lt;p&gt;Es gibt die Möglichkeit, anonyme Nachrichten zu senden. Dazu nutzt du in
+einem Channel deiner Wahl die &lt;a href=&#34;https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ&#34;&gt;Slash Commands &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; von &lt;a href=&#34;https://nminchow.github.io/VoltaireWeb/&#34;&gt;unserem Bot
+@voltaire &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.
+Optional kann dabei noch ausgewählt werden, dass auf diese anonymen
+Nachrichten auch geantwortet werden kann (funktioniert mit einem
+Reply-Code und natürlich weiterhin anonym!).&lt;/p&gt;
+&lt;p&gt;Nachricht an die Community in &lt;a href=&#34;https://discord.com/channels/690184051939606582/690895470897135636&#34;&gt;#feedback-fragen-mitmachen &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/send #feedback-fragen-mitmachen &amp;lt;hier_dein_text&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Nachricht an das ganze Team:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/send #feedback-an-das-team &amp;lt;hier_dein_text&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Nachricht an die @Community-Care:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/send #commcare-gebraucht &amp;lt;hier_dein_text&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Ersetze in den Beispielen &lt;code&gt;&amp;lt;hier_dein_Text&amp;gt;&lt;/code&gt; inklusive der Klammern mit
 deiner eigenen Nachricht. Sie landet dann im passenden Kanal und ist
-nicht zurückzuverfolgen.&lt;/p&gt;
+nicht zurückzuverfolgen (aber es kann ggf. darauf via Voltaire
+geantwortet werden, siehe oben).&lt;/p&gt;
 &lt;h3 id=&#34;probot&#34;&gt;Musik abspielen mit Probot &lt;a href=&#34;#probot&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;@unser Begrüßerlein besitzt die Möglichkeit, einem Sprachkanal
-beizutreten und Musik abzuspielen. Der Bot greift dabei auf Youtube
-zurück und spielt dann die Tonspur von den Videos ab.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://probot.io&#34;&gt;@unser Begrüßerlein &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; besitzt die Möglichkeit,
+einem Sprachkanal beizutreten und Musik abzuspielen. Der Bot greift
+dabei auf YouTube zurück und spielt dann die Tonspur von den Videos
+ab.&lt;/li&gt;
 &lt;li&gt;Wenn ihr den Bot leiser/lauter oder stummschalten wollt, könnt ihr das
 über rechtsklick auf den Botnamen und den Schieberegler bzw. den
 Button darunter tun.&lt;/li&gt;
@@ -165,15 +172,15 @@ welche Musik gehört wird lässt sich sicher gemeinsam eine Lösung
 finden.&lt;/li&gt;
 &lt;li&gt;Die wichtigen Befehle sind:
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;&amp;amp;play [Name des Videos]&lt;/code&gt; Der Bot sucht bei YouTube und nimmt das
+&lt;li&gt;&lt;code&gt;/play [Name des Videos]&lt;/code&gt; Der Bot sucht bei YouTube und nimmt das
 erste Video. Genauere Titel oder der Link führen zu besseren
 Ergebnissen&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;&amp;amp;skip&lt;/code&gt; Überspringt das aktuelle Lied in der Warteschlange&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;&amp;amp;search&lt;/code&gt; Ermöglicht die Auswahl auf Vorschlägen die der Bot bei
+&lt;li&gt;&lt;code&gt;/skip&lt;/code&gt; Überspringt das aktuelle Lied in der Warteschlange&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/search&lt;/code&gt; Ermöglicht die Auswahl auf Vorschlägen die der Bot bei
 Youtube findet&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;&amp;amp;queue&lt;/code&gt; Zeigt die aktuelle Warteschlange&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;&amp;amp;np&lt;/code&gt; Nennt das aktuelle Lied&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;&amp;amp;stop&lt;/code&gt; Beendet die Wiedergabe und der Bot verlässt den Voice-Chat&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/queue&lt;/code&gt; Zeigt die aktuelle Warteschlange&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/now_playing&lt;/code&gt; Nennt das aktuelle Lied&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/stop&lt;/code&gt; Beendet die Wiedergabe und der Bot verlässt den Voice-Chat&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Weitere Befehle findet ihr in der &lt;a href=&#34;https://www.probot.io/commands&#34;&gt;Dokumentation von
@@ -181,55 +188,57 @@ Probot &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt
 &lt;/ul&gt;
 &lt;h3 id=&#34;easypoll&#34;&gt;Umfragen mit Easypoll &lt;a href=&#34;#easypoll&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Mit dem Slash-Befehl &lt;code&gt;/poll&lt;/code&gt; könnt ihr Umfragen erstellen in allen
-Kanälen, die “easypoll” in der Kanalbeschreibung haben. Discord
+&lt;li&gt;Mit &lt;a href=&#34;https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ&#34;&gt;dem Slash-Befehl &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; &lt;code&gt;/poll&lt;/code&gt; könnt ihr Umfragen erstellen in
+allen Kanälen, die “easypoll” in der Kanalbeschreibung haben. Discord
 begleitet euch dabei anhand von visuellen Hinweisen durch die
 Erstellung.&lt;/li&gt;
 &lt;li&gt;Eigene Emojis: Wollt ihr statt 🅰️ 🅱️ usw. spezielle Emojis (nur
 Discord-eigene!) verwenden, nutzt einfach das Emoji vor eurer Antwort
 (also z.B. 🙈 test).&lt;/li&gt;
-&lt;li&gt;Mehrfachantworten: Mit maxchoices könnt ihr die maximale Anzahl an
+&lt;li&gt;Mehrfachantworten: Mit &lt;code&gt;maxchoices&lt;/code&gt; könnt ihr die maximale Anzahl an
 Reaktionen bestimmen, die eine Person abgeben darf.&lt;/li&gt;
 &lt;li&gt;Mehr Infos gibt es im &lt;a href=&#34;https://easypoll.bot/faq&#34;&gt;FAQ von Easypoll &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;birthday-bot&#34;&gt;Geburtstagsrolle mit Birthday Bot &lt;a href=&#34;#birthday-bot&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Setzt euren Geburtstag in
 &lt;a href=&#34;https://discord.com/channels/690184051939606582/857318559432835112&#34;&gt;#botspam &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;,
-indem ihr den Befehl &lt;code&gt;bday set&lt;/code&gt; benutzt. Der Bot nimmt euch an die Hand
-und erklärt genau, wie ihr eure Zeitzone (z.B. Europe/Berlin) und euren
-Geburtstag (z.B. &lt;code&gt;28/08&lt;/code&gt; für den 28. August) setzen könnt. Der
+indem ihr den Befehl &lt;code&gt;/set&lt;/code&gt; benutzt. Der Bot bzw. &lt;a href=&#34;https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ&#34;&gt;die Slash
+Commands &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; nehmen euch an die Hand
+und erklären genau, wie ihr eure Zeitzone (z.B. &lt;code&gt;Europe/Berlin&lt;/code&gt;) und
+euren Geburtstag (z.B. &lt;code&gt;28/08&lt;/code&gt; für den 28. August) setzen könnt. Der
 Geburtstag wird im Bot global gespeichert und kann nun auch auf anderen
 Servern, wo der Bot aktiv ist, genutzt werden. Eine Änderung ist 5 mal
 möglich.&lt;/p&gt;
-&lt;p&gt;Schneller geht es auch, z.B. mit &lt;code&gt;bday set 28/08&lt;/code&gt;. Das nutzt die
-Standardzeitzone auf dem Server &lt;code&gt;(Europe/Berlin)&lt;/code&gt; und es muss nur noch
-der Geburtstag entsprechend angepasst werden.&lt;/p&gt;
-&lt;p&gt;Mehr Info gibt es in der
-&lt;a href=&#34;https://birthdaybot.scottbucher.dev/setting-your-birthday&#34;&gt;Doku &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mehr Info gibt es &lt;a href=&#34;https://birthdaybot.scottbucher.dev/setting-your-birthday&#34;&gt;in der
+Doku &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;sesh&#34;&gt;Kalenderfunktionen mit Sesh &lt;a href=&#34;#sesh&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Wir haben einen Kalenderbot namens @sesh. In allen zu Sprachkanälen
-zugehörigen Textkanälen könnt ihr damit &lt;strong&gt;Termine erstellen&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Wir haben einen Kalenderbot &lt;a href=&#34;https://sesh.fyi&#34;&gt;namens @sesh &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;. In allen zu
+Sprachkanälen zugehörigen Textkanälen könnt ihr damit &lt;strong&gt;Termine
+erstellen&lt;/strong&gt; (mit den &lt;a href=&#34;https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ&#34;&gt;neuen Slash Commands &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; ist das auch sehr
+intuitiv):&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Termin mit offenem Ende
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;!s create Name des Treffens 2022-12-31, 23:00
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/create Name des Treffens 2022-12-31, 23:00
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Termin mit Start- und Endzeit
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;!s create Name des Treffens 2021-06-25, 19:30 to 21:00
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/create Name des Treffens 2021-06-25, 19:30 to 21:00
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Erstellung von Terminen mit mehr Optionen
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;!s create
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/create
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Nachrichten dieser Art werden nach Terminerstellung gelöscht. Ein Link
 zum &lt;strong&gt;Kalenderexport&lt;/strong&gt; kann erstellt werden mit:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Link mit Terminen im aktuellen Kanal
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;!s link
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/link
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Link mit Terminen aus definierten Kanälen
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;!s link #1_café #3_gartentisch
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/link #café #gartentisch
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Link für alle Termine auf dem Server
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;!s link all
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Analog kann eine &lt;strong&gt;Liste an (zukünftigen) Events&lt;/strong&gt; mit &lt;code&gt;!s list&lt;/code&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/link all
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Analog kann eine &lt;strong&gt;Liste an (zukünftigen) Events&lt;/strong&gt; mit &lt;code&gt;/list&lt;/code&gt;
 abgerufen werden für den aktuellen, mehrere oder alle Kanäle des
-Servers.&lt;/p&gt;
-&lt;p&gt;Mehr Info gibt es im &lt;a href=&#34;https://sesh.fyi/manual/&#34;&gt;Manual &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+Servers, diese sind aber auch dauerhaft angepinnt
+&lt;a href=&#34;https://discord.com/channels/690184051939606582/718455657379922053&#34;&gt;in #termine-und-infos &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mehr Info gibt es im &lt;a href=&#34;https://sesh.fyi/manual/&#34;&gt;Manual von sesh &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Noch etwas Netiquette zu Sesh:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;bei Terminen für &lt;strong&gt;geschlossene Gruppen&lt;/strong&gt; schreibt bitte einen Hinweis in den Termintitel&lt;/li&gt;
+&lt;li&gt;bei Terminen für &lt;strong&gt;geschlossene Gruppen&lt;/strong&gt; schreibt bitte einen Hinweis
+in den Termintitel&lt;/li&gt;
 &lt;li&gt;bitte erstellt &lt;strong&gt;interne Orga-Termine&lt;/strong&gt; in euren internen Kanälen&lt;/li&gt;
 &lt;li&gt;bitte &lt;strong&gt;löscht Termine&lt;/strong&gt;, wenn sie abgesagt werden&lt;/li&gt;
 &lt;li&gt;bei &lt;strong&gt;spontanen Treffen&lt;/strong&gt; müsst ihr nicht nachträglich einen Termin
