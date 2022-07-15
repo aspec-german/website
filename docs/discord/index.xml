@@ -67,7 +67,9 @@ Möglichkeiten, Menschen direkt zu pingen:&lt;/p&gt;
 &lt;li&gt;Wenn du auf Nachrichten direkt reagierst, ohne den Ping auszustellen&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Discord pingt bei Antworten automatisch. Das lässt sich mit einem Klick
-auf &lt;code&gt;@AN&lt;/code&gt; bzw. &lt;code&gt;@ON&lt;/code&gt; ausstellen.&lt;/p&gt;
+auf &lt;code&gt;@AN&lt;/code&gt; bzw. &lt;code&gt;@ON&lt;/code&gt; ausstellen. Alternativ kann - zumindest in der
+Desktop-App - die Shift-Taste gedrückt werden, während auf &amp;ldquo;Antworten&amp;rdquo;
+bzw. &amp;ldquo;Reply&amp;rdquo; geklickt wird.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;FAQ_ping-1.png&#34; alt=&#34;Unterer Rand der Discord-GUI mit Markierung des @ON Buttons&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Es gibt einige Menschen, die aus verschiedenen Gründen nicht gepingt
 werden möchten. Auf dem Server haben wir deswegen &amp;ldquo;gelbe Rollen&amp;rdquo;, die
