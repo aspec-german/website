@@ -145,6 +145,40 @@ Umfragen immer unseren &lt;a href=&#34;https://easypoll.bot&#34;&gt;Bot @EasyPol
 Herz legen, bei Konflikten mit der @Community-Care Kontakt aufzunehmen:
 Wir helfen dir sehr gerne, haben ein offenes Ohr und können zum Beispiel
 Gespräche mediieren. Schreib uns gerne an!&lt;/p&gt;
+&lt;h3 id=&#34;shortcuts-und-befehle&#34;&gt;Shortcuts und Befehle &lt;a href=&#34;#shortcuts-und-befehle&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Discord bringt von sich aus schon ein paar Befehle (beginnend mit &lt;code&gt;/&lt;/code&gt;)
+und Shortcuts (also Tastaturkürzel, normalerweise eingeleitet mit der
+Strg-Taste) mit. Ein paar wollen wir hier vorstellen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nickname ändern&lt;br&gt;
+Beim Registrieren bei Discord wird ein Username gewählt, der dann auch
+auf allen Servern genutzt wird. Allerdings kann dieser auch pro Server
+unterschiedlich sein. Das geht z.B. mit dem Befehl &lt;code&gt;/nick&lt;/code&gt; in einem
+beliebigen Kanal auf dem entsprechenden Server, gefolgt vom neuem
+Namen:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;nick.png&#34; alt=&#34;Nickname ändern&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Letzte Nachricht editieren&lt;br&gt;
+In einem Channel kann mit &lt;code&gt;Pfeiltaste nach oben&lt;/code&gt; die letzte Nachricht
+editiert werden&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Channels wechseln&lt;br&gt;
+Mit der Tastenkombination &lt;code&gt;Alt&lt;/code&gt; und &lt;code&gt;Pfeiltaste nach oben oder unten&lt;/code&gt;
+kann zum vorherigen bzw. nächsten Channel gesprungen werden. Wird
+dabei auch noch die &lt;code&gt;Shift&lt;/code&gt;-Taste gedrückt, wird nur zu ungelesenen
+Channels gesprungen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quick Switcher&lt;br&gt;
+Mit &lt;code&gt;Strg&lt;/code&gt; und &lt;code&gt;k&lt;/code&gt; wird ein Quick Switcher angezeigt, mit dem schnell
+zu anderen Menschen, Textchannels, Voicechannels oder Servern gesprungen
+werden kann.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mehr Shortcuts gibt es &lt;a href=&#34;https://defkey.com/discord-shortcuts&#34;&gt;hier in einer Übersicht &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;bots&#34;&gt;Bots &lt;a href=&#34;#bots&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Wir nutzen diverse Bots, um Discord für uns und euch
 attraktiver/einfacher/besser zu gestalten.&lt;/p&gt;
