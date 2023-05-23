@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ressourcen on Aspec*German</title>
-    <link>https://aspecgerman.de/ressource/</link>
+    <link>http://localhost:1313/ressource/</link>
     <description>Recent content in Ressourcen on Aspec*German</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="https://aspecgerman.de/ressource/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="http://localhost:1313/ressource/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Allgemeine Ressourcen</title>
-      <link>https://aspecgerman.de/ressource/allgemeine-ressourcen/</link>
+      <link>http://localhost:1313/ressource/allgemeine-ressourcen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/ressource/allgemeine-ressourcen/</guid>
+      <guid>http://localhost:1313/ressource/allgemeine-ressourcen/</guid>
       
         <description>&lt;p&gt;Hier finden sich Ressourcen, die nicht spezifisch dem aspec* Bereich
 zugeordnet sind, sondern sich mit allgemeinen queeren Themen, oder
 verschiedenen Intersektionen befassen.&lt;/p&gt;
-&lt;p&gt;Das Dokument mit den &lt;a href=&#34;https://aspecgerman.de/ressource/aspec-ressourcen/&#34;&gt;aspec* Ressourcen findet ihr hier&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Das Dokument mit den &lt;a href=&#34;http://localhost:1313/ressource/aspec-ressourcen/&#34;&gt;aspec* Ressourcen findet ihr hier&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;empfehlungen-zu-gender-themen&#34;&gt;Empfehlungen zu Gender-Themen &lt;a href=&#34;#empfehlungen-zu-gender-themen&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;foren-und-community-seiten&#34;&gt;Foren und Community-Seiten &lt;a href=&#34;#foren-und-community-seiten&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -43,7 +43,7 @@ Dazu auch: &lt;a href=&#34;https://de.wikipedia.org/wiki/Gender-Doppelpunkt&#34;
 &lt;li&gt;LGBTA Wikis // Wikis mit Einträgen zu diversen Mikrolables etc.: &lt;a href=&#34;https://www.lgbtqia.wiki/wiki/LGBTA_Wiki&#34;&gt;LGBTA+ Wiki &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&#34;https://rainbowpedia.fandom.com/wiki/Home&#34;&gt;MOGAI Encyclopedia &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; und &lt;a href=&#34;https://lgbtqia.fandom.com/wiki/LGBTQIA&amp;#43;_Wiki&#34;&gt;LGBTQIA+ Wiki &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://what-the-heck-gender-am-i.tumblr.com/naturegenders&#34;&gt;Nature Genders &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.waldschloesschen.org/files/Publikationen/Waldschloesschen-Verlag/schulelehrtlerntvielfalt1.pdf&#34;&gt;Schule lehrt/lernt Vielfalt: Praxisorientiertes Basiswissen und Tipps für Homo-, Bi-, Trans- und Inter*freundlichkeit in der Schule // Edition Waldschlösschen &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aspecgerman.de/ressource/privilegien/&#34;&gt;Privilegien - Eine Liste als Anstoß, sich mit den eigenen Privilegien auseinander zu setzen)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ressource/privilegien/&#34;&gt;Privilegien - Eine Liste als Anstoß, sich mit den eigenen Privilegien auseinander zu setzen)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.queer.de/detail.php?article_id=27318&#34;&gt;Artikel in queer.dezu einer Studie zum queeren Anteil in der Bevölkerung in Europa (u.a. Deutschland) &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.vice.com/de/article/xdp5dw/deutschland-ist-das-queerste-land-europas&#34;&gt;Artikel in VICE zu einer Studie zum queeren Anteil in der Bevölkerung in Europa (u.a. Deutschland) &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://daliaresearch.com/blog/counting-the-lgbt-population-6-of-europeans-identify-as-lgbt/&#34;&gt;Artikel in Daila Research zu einer Studie zum queeren Anteil in der Bevölkerung in Europa (u.a. Deutschland) &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
@@ -197,10 +197,10 @@ Orientierungen und Gender-Identitäten bei Systemen.&lt;/li&gt;
     
     <item>
       <title>Aspec-Ressourcen</title>
-      <link>https://aspecgerman.de/ressource/aspec-ressourcen/</link>
+      <link>http://localhost:1313/ressource/aspec-ressourcen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/ressource/aspec-ressourcen/</guid>
+      <guid>http://localhost:1313/ressource/aspec-ressourcen/</guid>
       
         <description>&lt;h2 id=&#34;einleitung&#34;&gt;Einleitung &lt;a href=&#34;#einleitung&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;was-gibt-es-hier&#34;&gt;Was gibt es hier? &lt;a href=&#34;#was-gibt-es-hier&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
@@ -1098,10 +1098,10 @@ ob es dort sowas gibt.&lt;/p&gt;
     
     <item>
       <title>Aspec* Materialien und Merchandise</title>
-      <link>https://aspecgerman.de/ressource/aspec-material-merch/</link>
+      <link>http://localhost:1313/ressource/aspec-material-merch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/ressource/aspec-material-merch/</guid>
+      <guid>http://localhost:1313/ressource/aspec-material-merch/</guid>
       
         <description>&lt;h2 id=&#34;deutschsprachige-bücher-mit-acearo-hauptthema&#34;&gt;Deutschsprachige Bücher mit ace/aro Hauptthema &lt;a href=&#34;#deutschsprachige-b%c3%bccher-mit-acearo-hauptthema&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;zum Verschenken, als Anregung an Stadtbibliotheken, und natürlich zum
@@ -1164,8 +1164,8 @@ ace, aro und demisexuell&lt;/li&gt;
 &lt;p&gt;Hier sammeln wir Materialien, die von Mitgliedern von Aspec*German
 erstellt wurden und zur allgemeinen Verwendung freigegeben wurden.&lt;/p&gt;
 &lt;h3 id=&#34;2022-04-06-ace-quizabend&#34;&gt;2022-04-06 Ace-Quizabend &lt;a href=&#34;#2022-04-06-ace-quizabend&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Bei den Veranstaltungen am &lt;a href=&#34;https://aspecgerman.de/news/2022/04/06/happy-international-asexuality-day/&#34;&gt;Internationalen Tag der Asexualität&lt;/a&gt; gab es
-auch &lt;a href=&#34;https://aspecgerman.de/news/2022/04/03/events-am-international-asexuality-day-mi-06.-april/&#34;&gt;einen Ace-Quizabend mit Lea&lt;/a&gt;.&lt;br&gt;
+&lt;p&gt;Bei den Veranstaltungen am &lt;a href=&#34;http://localhost:1313/news/2022/04/06/happy-international-asexuality-day/&#34;&gt;Internationalen Tag der Asexualität&lt;/a&gt; gab es
+auch &lt;a href=&#34;http://localhost:1313/news/2022/04/03/events-am-international-asexuality-day-mi-06.-april/&#34;&gt;einen Ace-Quizabend mit Lea&lt;/a&gt;.&lt;br&gt;
 Die Präsentation dazu inkl. Lösungen gibt es hier:&lt;/p&gt;
 &lt;div class=&#34;attachments grey&#34;&gt;
   &lt;div class=&#34;attachments-label&#34;&gt;
@@ -1174,7 +1174,7 @@ Die Präsentation dazu inkl. Lösungen gibt es hier:&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;attachments-files&#34;&gt;
     &lt;li&gt;
-      &lt;a href=&#34;https://aspecgerman.de/ressource/aspec-material-merch/files/2022-04-06_iad-quiz.odp&#34;&gt;2022-04-06_iad-quiz.odp&lt;/a&gt;
+      &lt;a href=&#34;http://localhost:1313/ressource/aspec-material-merch/files/2022-04-06_iad-quiz.odp&#34;&gt;2022-04-06_iad-quiz.odp&lt;/a&gt;
       (51 KiB)
     &lt;/li&gt;
   &lt;/div&gt;
@@ -1186,10 +1186,10 @@ Die Präsentation dazu inkl. Lösungen gibt es hier:&lt;/p&gt;
     
     <item>
       <title>Privilegienliste zur Selbstreflexion</title>
-      <link>https://aspecgerman.de/ressource/privilegien/</link>
+      <link>http://localhost:1313/ressource/privilegien/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/ressource/privilegien/</guid>
+      <guid>http://localhost:1313/ressource/privilegien/</guid>
       
         <description>&lt;p&gt;Ein Ziel dieser Liste an Privilegien ist, interessierten Menschen die
 Möglichkeit zu geben, sich selbst in dieser Hinsicht zu reflektieren.
@@ -1940,10 +1940,10 @@ reduziert.&lt;/li&gt;
     
     <item>
       <title>Ressourcen</title>
-      <link>https://aspecgerman.de/ressource/ressourcen/</link>
+      <link>http://localhost:1313/ressource/ressourcen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/ressource/ressourcen/</guid>
+      <guid>http://localhost:1313/ressource/ressourcen/</guid>
       
         <description>&lt;p&gt;In den letzten Wochen sind hier in den Gesprächen schon mehrfach
 interessante Links und Empfehlungen zu Podcasts, Büchern etc.
@@ -2123,16 +2123,16 @@ nachgefragt werden. Ansonsten sind Menschen hier alle gebeten, keine
 ungebräuchlichen Akronyme zu verwenden bzw. ungebräuchliche Akronyme und
 queere Begriffe in der eigenen Nachricht bei Verwendung kurz zu
 erklären.&lt;/p&gt;
-&lt;p&gt;Zum &lt;a href=&#34;https://aspecgerman.de/community/glossar/&#34;&gt;Glossar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zum &lt;a href=&#34;http://localhost:1313/community/glossar/&#34;&gt;Glossar&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ressourcen-dokumente&#34;&gt;Ressourcen-Dokumente &lt;a href=&#34;#ressourcen-dokumente&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Wir haben zwei umfangreiche Dokumente für Ressourcen!! Weiterhin gilt:
 Empfehlungen zur Ergänzung gerne in &lt;a href=&#34;https://discord.com/channels/690184051939606582/713317689048825906&#34;&gt;#ressourcen-input &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; einstellen!&lt;/p&gt;
-&lt;p&gt;Eins für &lt;a href=&#34;https://aspecgerman.de/ressource/aspec-ressourcen/&#34;&gt;Ressourcen, die speziell für den aspec* Bereich&lt;/a&gt; sind.
+&lt;p&gt;Eins für &lt;a href=&#34;http://localhost:1313/ressource/aspec-ressourcen/&#34;&gt;Ressourcen, die speziell für den aspec* Bereich&lt;/a&gt; sind.
 Hauptsächlich zum aromantischen und asexuellen Spektrum, aber hier
 findet ihr auch weiterhin die Ressourcen, die sich ausdrücklich an junge
 Menschen richten. Außerdem die Liste der offline Treffen, eine Liste von
 Queeren Beratungsstellen und Listen mit Blogs und Youtube Kanälen.&lt;/p&gt;
-&lt;p&gt;Das zweite Dokument beinhaltet &lt;a href=&#34;https://aspecgerman.de/ressource/allgemeine-ressourcen/&#34;&gt;&amp;ldquo;allgemeine&amp;rdquo; Ressourcen&lt;/a&gt;, das
+&lt;p&gt;Das zweite Dokument beinhaltet &lt;a href=&#34;http://localhost:1313/ressource/allgemeine-ressourcen/&#34;&gt;&amp;ldquo;allgemeine&amp;rdquo; Ressourcen&lt;/a&gt;, das
 heißt aktuell vor allem Inhalte zu Genderidentität oder allgemeinen
 queeren Themen, aber auch einige Sachen zu Intersektionalität oder
 Neurodiversität.&lt;/p&gt;
@@ -2142,10 +2142,10 @@ Neurodiversität.&lt;/p&gt;
     
     <item>
       <title>Textbeispiele Pronomen</title>
-      <link>https://aspecgerman.de/ressource/textbeispiele-pronomen/</link>
+      <link>http://localhost:1313/ressource/textbeispiele-pronomen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/ressource/textbeispiele-pronomen/</guid>
+      <guid>http://localhost:1313/ressource/textbeispiele-pronomen/</guid>
       
         <description>&lt;p&gt;Pronomen, die aktuell auf unserem Server Aspec*German verwendet werden,
 und Textbeispiele&lt;/p&gt;

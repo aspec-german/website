@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discords on Aspec*German</title>
-    <link>https://aspecgerman.de/discord/</link>
+    <link>http://localhost:1313/discord/</link>
     <description>Recent content in Discords on Aspec*German</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="https://aspecgerman.de/discord/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="http://localhost:1313/discord/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discordanleitungen</title>
-      <link>https://aspecgerman.de/discord/discord-anleitungen/</link>
+      <link>http://localhost:1313/discord/discord-anleitungen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/discord/discord-anleitungen/</guid>
+      <guid>http://localhost:1313/discord/discord-anleitungen/</guid>
       
         <description>&lt;h2 id=&#34;wie-geht-discord&#34;&gt;Wie geht Discord? &lt;a href=&#34;#wie-geht-discord&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Wenn du neu auf Discord bist, wirst du sicher den &lt;a href=&#34;https://support.discord.com/hc/de/articles/360045138571-Discord-Anf%C3%A4ngerleitfaden&#34;&gt;Discord
@@ -57,7 +57,7 @@ also vorher nach bzw. beachte unsere gelben Rollen.&lt;/li&gt;
 und können an einzelne Accounts oder ganze Rollen gerichtet sein (s.
 die nächste Frage).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Mehr Bergiffe und Erklärungen findest du in unserem &lt;a href=&#34;https://aspecgerman.de/community/glossar/&#34;&gt;Glossar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mehr Bergiffe und Erklärungen findest du in unserem &lt;a href=&#34;http://localhost:1313/community/glossar/&#34;&gt;Glossar&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;ich-werde-darauf-hingewiesen-dass-ich-jemanden-gepingt-habe-was-habe-ich-getan-und-wie-kann-ich-es-lassen&#34;&gt;Ich werde darauf hingewiesen, dass ich jemanden gepingt habe. Was habe ich getan und wie kann ich es lassen? &lt;a href=&#34;#ich-werde-darauf-hingewiesen-dass-ich-jemanden-gepingt-habe-was-habe-ich-getan-und-wie-kann-ich-es-lassen&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Pingen ist eine Funktion, bei der Discord durch Töne, rote Hinweise und
 Farbunterlegung auf Nachrichten aufmerksam macht. Es gibt zwei

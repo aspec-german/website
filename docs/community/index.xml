@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community on Aspec*German</title>
-    <link>https://aspecgerman.de/community/</link>
+    <link>http://localhost:1313/community/</link>
     <description>Recent content in Community on Aspec*German</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="https://aspecgerman.de/community/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="http://localhost:1313/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diversität &amp; Kommunikation</title>
-      <link>https://aspecgerman.de/community/diversitaet-kommunikation/</link>
+      <link>http://localhost:1313/community/diversitaet-kommunikation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/community/diversitaet-kommunikation/</guid>
+      <guid>http://localhost:1313/community/diversitaet-kommunikation/</guid>
       
         <description>&lt;h2 id=&#34;gender-nichtbinarität-kommunikation-von-pronomen&#34;&gt;Gender, Nichtbinarität, Kommunikation von Pronomen &lt;a href=&#34;#gender-nichtbinarit%c3%a4t-kommunikation-von-pronomen&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Dieser Text wurde von einer Gruppe von trans*, nichtbinären, nicht cis
@@ -47,7 +47,7 @@ angeklickt wird). &lt;strong&gt;Alle&lt;/strong&gt; bei einer Person gelisteten 
 und sollen auch verwendet werden&lt;/strong&gt;. Sollte ihre Nutzung unklar sein,
 sind auch hier respektvolle Nachfragen willkommen. Eine Übersicht mit
 Textbeispielen für viele auf dem Server verwendeten Pronomen findest du
-&lt;a href=&#34;https://aspecgerman.de/ressource/textbeispiele-pronomen/&#34;&gt;unter Textbeispiele Pronomen&lt;/a&gt;. Vielen Dank fürs
+&lt;a href=&#34;http://localhost:1313/ressource/textbeispiele-pronomen/&#34;&gt;unter Textbeispiele Pronomen&lt;/a&gt;. Vielen Dank fürs
 Durchlesen! 😊&lt;/p&gt;
 &lt;h2 id=&#34;gendergerechte-und-genderneutrale-sprache&#34;&gt;Gendergerechte und genderneutrale Sprache &lt;a href=&#34;#gendergerechte-und-genderneutrale-sprache&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Dieser Server ist ein fantastischer Ort, gendergerechte und -neutrale
@@ -146,7 +146,7 @@ schließen, dass es überall neurodivergente Menschen gibt, nicht nur auf
 diesem Server. Alles, was du in diesem Text gelesen hast, ist auch für
 deinen Alltag im Real Life relevant. Weiterführende Links zum Thema
 Neurodiversität findest du auch in
-unseren &lt;a href=&#34;https://aspecgerman.de/ressource/ressourcen/&#34;&gt;Ressourcen&lt;/a&gt;.&lt;/p&gt;
+unseren &lt;a href=&#34;http://localhost:1313/ressource/ressourcen/&#34;&gt;Ressourcen&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;traumatisierung-und-traumafolgestörungen&#34;&gt;Traumatisierung und Traumafolgestörungen &lt;a href=&#34;#traumatisierung-und-traumafolgest%c3%b6rungen&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Auf unserem Server gibt es Nutzer*innen, die Traumatisierendes erlebt
 haben, und Nutzer*innen, die zeitweise oder langfristig mit
@@ -177,7 +177,7 @@ für ihre Reaktionen.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vermeidung von Triggern&lt;/strong&gt;: Respektiere die thematische Ausrichtung
 der verschiedenen Channels und benutze für sensible Themen Content
 Notes und die Spoilerfunktion oder Threads (Anleitung in
-&lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discordanleitungen&lt;/a&gt;).&lt;/li&gt;
+&lt;a href=&#34;http://localhost:1313/discord/discord-anleitungen/&#34;&gt;Discordanleitungen&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;No-Gos&lt;/strong&gt;: Sprich niemals jemandem ab, ein Trauma erlebt oder etwas
 als traumatisierend erlebt zu haben. Setze niemanden unter Druck, dir
 über eine eigene Traumaerfahrung zu berichten. Außerdem: Nutze den
@@ -190,7 +190,7 @@ dieser Community werden dies respektieren und entsprechend handeln
 Postings o.ä.). Du kannst dich außerdem jederzeit aus Unterhaltungen
 herausnehmen. Du darfst gerne Feedback zu triggernden Diskussionen in
 &lt;a href=&#34;https://discord.com/channels/690184051939606582/690895470897135636&#34;&gt;#feedback-fragen-mitmachen &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;
-schreiben (auch anonym möglich, s. &lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discordanleitungen&lt;/a&gt;).&lt;/li&gt;
+schreiben (auch anonym möglich, s. &lt;a href=&#34;http://localhost:1313/discord/discord-anleitungen/&#34;&gt;Discordanleitungen&lt;/a&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;viele-sein&#34;&gt;Viele Sein &lt;a href=&#34;#viele-sein&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Auf unserem Server gibt es Nutzer*innen, die sich in irgendeiner Form
@@ -255,10 +255,10 @@ werden.&lt;/li&gt;
     
     <item>
       <title>Gesprächsleitfaden</title>
-      <link>https://aspecgerman.de/community/gespraechsleitfaden/</link>
+      <link>http://localhost:1313/community/gespraechsleitfaden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/community/gespraechsleitfaden/</guid>
+      <guid>http://localhost:1313/community/gespraechsleitfaden/</guid>
       
         <description>&lt;h2 id=&#34;das-miteinander&#34;&gt;Das Miteinander &lt;a href=&#34;#das-miteinander&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
@@ -319,7 +319,7 @@ den roten Pronomenrollen abzulesen sind&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Genderneutrale Sprache&lt;/strong&gt; ist optimal. Da diese nicht mit allen
 Wörtern möglich ist, verwendet das Team das Gendersternchen, zum
 Beispiel, wenn wir von User*innen sprechen&lt;/li&gt;
-&lt;li&gt;mehr dazu auf &lt;a href=&#34;https://aspecgerman.de/community/diversitaet-kommunikation/&#34;&gt;Diversität &amp;amp; Kommunikation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mehr dazu auf &lt;a href=&#34;http://localhost:1313/community/diversitaet-kommunikation/&#34;&gt;Diversität &amp;amp; Kommunikation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;niedrigschwellige-kommunikation&#34;&gt;Niedrigschwellige Kommunikation &lt;a href=&#34;#niedrigschwellige-kommunikation&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -328,7 +328,7 @@ Abkürzungen&lt;/strong&gt; oder &lt;strong&gt;erkläre&lt;/strong&gt; sie noch 
 &lt;li&gt;wir haben ein &lt;strong&gt;Server-Glossar&lt;/strong&gt; mit den bekanntesten Wörtern aus dem
 queeren Sprachgebrauch und der Internetkultur, z.B. aspec, enby oder
 afk, diese müssen nicht ohne Nachfrage erklärt werden&lt;/li&gt;
-&lt;li&gt;das Glossar findest du &lt;a href=&#34;https://aspecgerman.de/community/glossar/&#34;&gt;hier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;das Glossar findest du &lt;a href=&#34;http://localhost:1313/community/glossar/&#34;&gt;hier&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;stimmungsindikatoren&#34;&gt;Stimmungsindikatoren &lt;a href=&#34;#stimmungsindikatoren&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -336,9 +336,9 @@ afk, diese müssen nicht ohne Nachfrage erklärt werden&lt;/li&gt;
 zwischen den Zeilen&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Stimmungsfarben&lt;/strong&gt; wie Sarkasmus und Ironie werden explizit mit
 :sarkasmus: oder &amp;ldquo;/s&amp;rdquo; &lt;strong&gt;markiert&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;mehr dazu auf &lt;a href=&#34;https://aspecgerman.de/community/diversitaet-kommunikation/&#34;&gt;Diversität &amp;amp; Kommunikation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mehr dazu auf &lt;a href=&#34;http://localhost:1313/community/diversitaet-kommunikation/&#34;&gt;Diversität &amp;amp; Kommunikation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;eine Auflistung von Stimmungsindikatoren findest du im
-&lt;a href=&#34;https://aspecgerman.de/community/glossar/&#34;&gt;Glossar&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;http://localhost:1313/community/glossar/&#34;&gt;Glossar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;trigger-spoiler--threads&#34;&gt;Trigger, Spoiler &amp;amp; Threads &lt;a href=&#34;#trigger-spoiler--threads&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -374,13 +374,13 @@ selbstverletzenden, selbstschädigenden und/oder essgestörten
 Gedankengängen und/oder Verhalten. Wenn es euch so schlecht geht, dass
 ihr darüber sprechen möchtet, verdient ihr umfassende Unterstützung
 durch gut ausgebildete Menschen. Wir haben dazu eine Liste &lt;strong&gt;queerer
-Beratungsstellen&lt;/strong&gt; in den &lt;a href=&#34;https://aspecgerman.de/ressource/ressourcen/&#34;&gt;Ressourcen&lt;/a&gt; zusammengestellt.&lt;/li&gt;
+Beratungsstellen&lt;/strong&gt; in den &lt;a href=&#34;http://localhost:1313/ressource/ressourcen/&#34;&gt;Ressourcen&lt;/a&gt; zusammengestellt.&lt;/li&gt;
 &lt;li&gt;die einfache Erwähnung von diesen kritischen Themen kann hinter
 Spoilern oder in Threads stattfinden, &lt;strong&gt;explizite Beschreibungen&lt;/strong&gt;
 aber sind &lt;strong&gt;verboten&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;wie sich Spoiler und Threads einrichten lassen, findest du in
-&lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discordanleitungen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;mehr zu dazu in &lt;a href=&#34;https://aspecgerman.de/community/diversitaet-kommunikation/&#34;&gt;Diversität &amp;amp; Kommunikation&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;http://localhost:1313/discord/discord-anleitungen/&#34;&gt;Discordanleitungen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mehr zu dazu in &lt;a href=&#34;http://localhost:1313/community/diversitaet-kommunikation/&#34;&gt;Diversität &amp;amp; Kommunikation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;sexualität--orientierungen&#34;&gt;Sexualität &amp;amp; Orientierungen &lt;a href=&#34;#sexualit%c3%a4t--orientierungen&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -404,7 +404,7 @@ ist hilfreich für z.B. Systeme (Menschen mit dissoziativer
 Identitätsstruktur) oder genderfluide Menschen. Aus technischen
 Gründen erscheint dann “Bot” neben dem Namen, die Nachrichten stammen
 aber dennoch von echten Personen.&lt;/li&gt;
-&lt;li&gt;mehr dazu in &lt;a href=&#34;https://aspecgerman.de/community/diversitaet-kommunikation/&#34;&gt;Diversität &amp;amp; Kommunikation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mehr dazu in &lt;a href=&#34;http://localhost:1313/community/diversitaet-kommunikation/&#34;&gt;Diversität &amp;amp; Kommunikation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;unterschiedliche-diskussionskulturen-der-kategorien&#34;&gt;Unterschiedliche Diskussionskulturen der Kategorien &lt;a href=&#34;#unterschiedliche-diskussionskulturen-der-kategorien&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;fabelwelten-kategorie&#34;&gt;Fabelwelten-Kategorie &lt;a href=&#34;#fabelwelten-kategorie&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
@@ -450,10 +450,10 @@ deine Adresse etc.&lt;/li&gt;
     
     <item>
       <title>Glossar</title>
-      <link>https://aspecgerman.de/community/glossar/</link>
+      <link>http://localhost:1313/community/glossar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/community/glossar/</guid>
+      <guid>http://localhost:1313/community/glossar/</guid>
       
         <description>&lt;p&gt;Dieses Glossar soll die am häufigsten in unserem Server verwendeten
 Abkürzungen und Begrifflichkeiten erklären. Generell gilt allerdings,
@@ -760,10 +760,10 @@ platonische Anziehung.&lt;/dd&gt;
     
     <item>
       <title>Kommunikationsgrundsätze zur Vermeidung von Konflikten</title>
-      <link>https://aspecgerman.de/community/kommunikationsgrundsaetze/</link>
+      <link>http://localhost:1313/community/kommunikationsgrundsaetze/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/community/kommunikationsgrundsaetze/</guid>
+      <guid>http://localhost:1313/community/kommunikationsgrundsaetze/</guid>
       
         <description>&lt;p&gt;Liebe Community,&lt;/p&gt;
 &lt;p&gt;in letzter Zeit ist uns aufgefallen, dass es öfter zu Missverständnissen
@@ -862,10 +862,10 @@ gern beim Klären dieses Konfliktes oder auch bei anderen Problemen.&lt;/li&gt;
     
     <item>
       <title>Serverinfos</title>
-      <link>https://aspecgerman.de/community/serverinfos/</link>
+      <link>http://localhost:1313/community/serverinfos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aspecgerman.de/community/serverinfos/</guid>
+      <guid>http://localhost:1313/community/serverinfos/</guid>
       
         <description>&lt;h2 id=&#34;unsere-website&#34;&gt;Unsere Website &lt;a href=&#34;#unsere-website&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Unser Server hat eine Website (diese hier 😉)! Wenn ihr uns
@@ -892,9 +892,9 @@ weiter, von dieser geht es dann weiter zum Server.&lt;/li&gt;
 &lt;h2 id=&#34;bewerbung-anderer-server&#34;&gt;Bewerbung anderer Server &lt;a href=&#34;#bewerbung-anderer-server&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Links zu aspec und anderen queeren Servern nehmen wir sehr gerne in
-die &lt;a href=&#34;https://aspecgerman.de/ressource/ressourcen/&#34;&gt;Ressourcen&lt;/a&gt; mit auf (postet sie dazu bitte in
+die &lt;a href=&#34;http://localhost:1313/ressource/ressourcen/&#34;&gt;Ressourcen&lt;/a&gt; mit auf (postet sie dazu bitte in
 &lt;a href=&#34;https://discord.com/channels/690184051939606582/713317689048825906&#34;&gt;#ressourcen-input &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;Links zu andersthematischen Servern werden nicht in die &lt;a href=&#34;https://aspecgerman.de/ressource/ressourcen/&#34;&gt;Ressourcen&lt;/a&gt;
+&lt;li&gt;Links zu andersthematischen Servern werden nicht in die &lt;a href=&#34;http://localhost:1313/ressource/ressourcen/&#34;&gt;Ressourcen&lt;/a&gt;
 aufgenommen, postet sie bitte einfach in andere, nach Möglichkeit
 thematisch passende Kanäle.&lt;/li&gt;
 &lt;/ul&gt;
@@ -1052,13 +1052,13 @@ Events&lt;/li&gt;
 durch diesen Channel führt in der Regel auch zur
 schnellsten Bearbeitung.&lt;/li&gt;
 &lt;li&gt;Anonymes Feedback an alle Teamteile gleichzeitig könnt ihr gerne per
-Voltaire schicken (s. &lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discord-Anleitungen&lt;/a&gt; für eine
+Voltaire schicken (s. &lt;a href=&#34;http://localhost:1313/discord/discord-anleitungen/&#34;&gt;Discord-Anleitungen&lt;/a&gt; für eine
 genaue Anleitung).&lt;/li&gt;
 &lt;li&gt;An alle Teammitglieder, die keine no-DMs oder DMs-erst-fragen-Rolle
 haben, könnt ihr auch &lt;strong&gt;DMs&lt;/strong&gt; schicken. Zur schnelleren Bearbeitung
 ist es sinnvoll Teamleute zu bevorzugen, die gerade online sind.&lt;/li&gt;
 &lt;li&gt;Die &lt;strong&gt;Community-Care&lt;/strong&gt; erreicht ihr außerdem per anonymer Nachricht
-mit &lt;strong&gt;Voltaire&lt;/strong&gt; (s. &lt;a href=&#34;https://aspecgerman.de/discord/discord-anleitungen/&#34;&gt;Discord-Anleitungen&lt;/a&gt;. Diese
+mit &lt;strong&gt;Voltaire&lt;/strong&gt; (s. &lt;a href=&#34;http://localhost:1313/discord/discord-anleitungen/&#34;&gt;Discord-Anleitungen&lt;/a&gt;. Diese
 Nachrichten landen in einem Kanal, den nur die Community-Care
 einsieht.&lt;/li&gt;
 &lt;li&gt;Wenn es um &lt;strong&gt;Events&lt;/strong&gt; geht, passt Feedback an &lt;strong&gt;RPE&lt;/strong&gt; dazu am besten
