@@ -38,24 +38,57 @@ dann ist möglicherweise unser Bot offline. Gib in
 &lt;a href=&#34;https://discord.com/channels/690184051939606582/690184051939606586&#34;&gt;#willkommen &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; Bescheid, dort hilft dir jemand.&lt;/p&gt;
 &lt;h3 id=&#34;kanäle-threads-rollen-pings--was-bedeutet-das-alles&#34;&gt;Kanäle, Threads, Rollen, Pings &amp;hellip; Was bedeutet das alles? &lt;a href=&#34;#kan%c3%a4le-threads-rollen-pings--was-bedeutet-das-alles&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Kanäle:&lt;/strong&gt; Einzelne Räume zur Kommunikation. Es gibt Text- und
-Sprachkanäle (engl. text channels und voice channels (VCs)).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Threads:&lt;/strong&gt; Temporäre Textkanäle, die etwas anders funktionieren
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kanäle:&lt;/strong&gt; Einzelne Räume zur Kommunikation. Es gibt Text- und
+Sprachkanäle (engl. text channels und voice channels (VCs)).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Threads:&lt;/strong&gt; Temporäre Textkanäle, die etwas anders funktionieren
 als Textkanäle: Sie sind von allen erstellbar und nur zu verfolgen,
-wenn ihnen beigetreten wird (s. &lt;a href=&#34;#threads&#34;&gt;Threads&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kategorien:&lt;/strong&gt; Sie fassen mehrere Kanäle in Gruppen zusammen zur
-besseren Übersichtlichkeit, z.B. On-Topic, Events, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rollen:&lt;/strong&gt; Sie dienen v.a. dazu, Berechtigungen zu verwalten und
+wenn ihnen beigetreten wird (s. &lt;a href=&#34;#threads&#34;&gt;Threads&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Foren:&lt;/strong&gt; (oder auch Forumskanäle) wurden erst kürzlich von Discord
+eingeführt. Aus der &lt;a href=&#34;https://support.discord.com/hc/de/articles/6208479917079-Forumskan%C3%A4le&#34;&gt;FAQ zu Forumskanälen &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; (hier befinden
+sich auch noch weitere Fragen und Antworten zu Foren):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Forumskanäle bieten einen Raum für organisierte Diskussionen. In
+Foren könnt ihr über bestimmte Themen diskutieren, ohne euch Sorgen
+machen zu müssen, dass ihr euch gegenseitig übertreibt. Da die
+Diskussionen in den Beiträgen enthalten sind, ist es einfacher, in
+eine bestehende Diskussion einzusteigen (oder eine neue zu
+beginnen), ohne sich Sorgen zu machen, dass deine Nachricht
+untergeht!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kategorien:&lt;/strong&gt; Sie fassen mehrere Kanäle in Gruppen zusammen zur
+besseren Übersichtlichkeit, z.B. On-Topic, Events, &amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Rollen:&lt;/strong&gt; Sie dienen v.a. dazu, Berechtigungen zu verwalten und
 Kanäle freizuschalten. Sie werden automatisch per Klick auf Emojis
-vergeben.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DM:&lt;/strong&gt; Direct Messages (auch private message (PM) oder Private
+vergeben.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DM:&lt;/strong&gt; Direct Messages (auch private message (PM) oder Private
 Nachricht (PN)) sind Nachrichten zwischen zwei User*innen außerhalb
 von Servern. Du findest sie in deinem Home-Bereich (dem Symbol ganz
 links über den Servericons). Manche möchten keine DMs erhalten, frage
-also vorher nach bzw. beachte unsere gelben Rollen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pings:&lt;/strong&gt; Sie machen andere User*innen auf Nachrichten aufmerksam
+also vorher nach bzw. beachte unsere gelben Rollen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pings:&lt;/strong&gt; Sie machen andere User*innen auf Nachrichten aufmerksam
 und können an einzelne Accounts oder ganze Rollen gerichtet sein (s.
-die nächste Frage).&lt;/li&gt;
+die nächste Frage).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Servername (auch Serverprofil oder Server-Nickname genannt):&lt;/strong&gt; Du
+kannst auf dem Server einen anderen Namen benutzen, der nicht der Name
+deines Accounts ist, indem du dein Serverprofil bearbeitest.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;servername.png&#34; alt=&#34;Nach Klick auf Aspec\*German ganz oben befindet sich hier die Einstellung &amp;ldquo;Serverprofil bearbeiten&amp;rdquo;&#34;&gt;
+&lt;img src=&#34;servername_change.png&#34; alt=&#34;Hier kann pro Server der Server-Nickname und Pronomen angepasst werden&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Mehr Bergiffe und Erklärungen findest du in unserem &lt;a href=&#34;https://aspecgerman.de/community/glossar/&#34;&gt;Glossar&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;ich-werde-darauf-hingewiesen-dass-ich-jemanden-gepingt-habe-was-habe-ich-getan-und-wie-kann-ich-es-lassen&#34;&gt;Ich werde darauf hingewiesen, dass ich jemanden gepingt habe. Was habe ich getan und wie kann ich es lassen? &lt;a href=&#34;#ich-werde-darauf-hingewiesen-dass-ich-jemanden-gepingt-habe-was-habe-ich-getan-und-wie-kann-ich-es-lassen&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
@@ -102,6 +135,25 @@ verdeutlicht dies:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;FAQ_opt-out.png&#34; alt=&#34;Komplette Kategorie stumm schalten&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Eine Anleitung für einzelne Kanäle findest du &lt;a href=&#34;https://support.discord.com/hc/de/articles/209791877&#34;&gt;auf der offiziellen
 Discord-Website &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;es-sind-mir-zu-viele-kanäle&#34;&gt;Es sind mir zu viele Kanäle! &lt;a href=&#34;#es-sind-mir-zu-viele-kan%c3%a4le&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Du hast die Möglichkeit, Kanäle auszublenden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Klicke dazu zunächst oben auf &amp;ldquo;Aspec*German&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entferne dann das Häkchen bei &amp;ldquo;Alle Kanäle anzeigen&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zuviel_alle-kanaele.png&#34; alt=&#34;Nach Klick auf Aspec\*German ganz oben befindet sich hier die Einstellung &amp;ldquo;Alle Kanäle anzeigen&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Du kannst dann immer noch über &amp;ldquo;Kanäle durchstöbern&amp;rdquo; die ausgeblendeten
+Kanäle finden. Hier sind alle Kanäle aufgelistet, zu denen du mit deiner
+Rolle Zugang hast.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zuviel_stoebern.png&#34; alt=&#34;&amp;ldquo;Kanäle durchstöbern&amp;rdquo; in der linken Seitenleiste&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Setzte nun ein Häkchen bei den Kanälen, die du sehen möchtest (Screenshot von der Kanalübersicht mit und ohne Häkchen)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zuviel_auswahl.png&#34; alt=&#34;Auswahlmöglichkeiten unter &amp;ldquo;Kanäle durchstöbern&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;relevante-funktionen-von-discord&#34;&gt;Relevante Funktionen von Discord &lt;a href=&#34;#relevante-funktionen-von-discord&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;spoiler&#34;&gt;Spoiler &lt;a href=&#34;#spoiler&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Verwende &lt;strong&gt;zwei Symbole |&lt;/strong&gt; vor und hinter dem Text, um ihn zu
