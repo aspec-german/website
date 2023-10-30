@@ -22,18 +22,18 @@ versiertere User*innen gibt es in den Erklärungen zur
 Im Folgenden gehen wir nur auf die Dinge ein, die für unseren Server
 spezifisch oder essentiell sind.&lt;/p&gt;
 &lt;h2 id=&#34;faq--frequently-asked-questions&#34;&gt;FAQ – Frequently Asked Questions &lt;a href=&#34;#faq--frequently-asked-questions&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;ich-klicke-in-neu-hier-auf--aber-nichts-tut-sich-was-soll-ich-tun&#34;&gt;Ich klicke in #neu-hier auf 🆗, aber nichts tut sich. Was soll ich tun? &lt;a href=&#34;#ich-klicke-in-neu-hier-auf--aber-nichts-tut-sich-was-soll-ich-tun&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Bitte klicke auf das 🆗 unter der Nachricht in &lt;a href=&#34;https://discord.com/channels/690184051939606582/801939707738587138&#34;&gt;#neu-hier &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;h3 id=&#34;ich-klicke-in-neu-hier-auf-ok-aber-nichts-tut-sich-was-soll-ich-tun&#34;&gt;Ich klicke in #neu-hier auf &amp;#x1f197;, aber nichts tut sich. Was soll ich tun? &lt;a href=&#34;#ich-klicke-in-neu-hier-auf-ok-aber-nichts-tut-sich-was-soll-ich-tun&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Bitte klicke auf das &amp;#x1f197; unter der Nachricht in &lt;a href=&#34;https://discord.com/channels/690184051939606582/801939707738587138&#34;&gt;#neu-hier &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;FAQ_OK-1.png&#34; alt=&#34;Die Discord-Oberfläche mit offenem neu-hier-Kanal und Hervorhebung der OK-Reaktion&#34;&gt;
 &lt;img src=&#34;FAQ_OK-2.png&#34; alt=&#34;Die Discord-Oberfläche nach Klicken auf OK mit deutlich mehr freigeschalteten Kanälen&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Wenn du unter der Nachricht kein 🆗 siehst, ist die Anzeige der
+&lt;p&gt;Wenn du unter der Nachricht kein &amp;#x1f197; siehst, ist die Anzeige der
 Reaktionen bei dir ausgeschaltet. Gehe dazu in deinen Einstellungen auf
 APP-Einstellungen &amp;gt; Text &amp;amp; Bilder und aktiviere unter dem Punkt &lt;code&gt;EMOJI&lt;/code&gt;
-die Option &amp;ldquo;Emoji-Reaktionen bei Nachrichten anzeigen&amp;rdquo;. Das 🆗 müsste
+die Option &amp;ldquo;Emoji-Reaktionen bei Nachrichten anzeigen&amp;rdquo;. Das &amp;#x1f197; müsste
 nun sichtbar sein.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;FAQ_OK-3.png&#34; alt=&#34;Hervorhebung des Zahnrad-Symbols am unteren Rand der Discord-Oberfläche&#34;&gt;
 &lt;img src=&#34;FAQ_OK-4.png&#34; alt=&#34;Einstellungsmenü, in dem die Kategorie &amp;lsquo;Text &amp;amp; Bilder&amp;rsquo; aufgeklappt ist&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Solltest du auf das richtige 🆗 geklickt haben, aber nichts passiert,
+&lt;p&gt;Solltest du auf das richtige &amp;#x1f197; geklickt haben, aber nichts passiert,
 dann ist möglicherweise unser Bot offline. Gib in
 &lt;a href=&#34;https://discord.com/channels/690184051939606582/690184051939606586&#34;&gt;#willkommen &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; Bescheid, dort hilft dir jemand.&lt;/p&gt;
 &lt;h3 id=&#34;kanäle-threads-rollen-pings--was-bedeutet-das-alles&#34;&gt;Kanäle, Threads, Rollen, Pings &amp;hellip; Was bedeutet das alles? &lt;a href=&#34;#kan%c3%a4le-threads-rollen-pings--was-bedeutet-das-alles&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
@@ -287,9 +287,9 @@ Probot &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt
 allen Kanälen, die “easypoll” in der Kanalbeschreibung haben. Discord
 begleitet euch dabei anhand von visuellen Hinweisen durch die
 Erstellung.&lt;/li&gt;
-&lt;li&gt;Eigene Emojis: Wollt ihr statt 🅰️ 🅱️ usw. spezielle Emojis (nur
+&lt;li&gt;Eigene Emojis: Wollt ihr statt &amp;#x1f170;&amp;#xfe0f; &amp;#x1f171;&amp;#xfe0f; usw. spezielle Emojis (nur
 Discord-eigene!) verwenden, nutzt einfach das Emoji vor eurer Antwort
-(also z.B. 🙈 test).&lt;/li&gt;
+(also z.B. &amp;#x1f648; test).&lt;/li&gt;
 &lt;li&gt;Mehrfachantworten: Mit &lt;code&gt;maxchoices&lt;/code&gt; könnt ihr die maximale Anzahl an
 Reaktionen bestimmen, die eine Person abgeben darf.&lt;/li&gt;
 &lt;li&gt;Mehr Infos gibt es im &lt;a href=&#34;https://easypoll.bot/faq&#34;&gt;FAQ von Easypoll &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/li&gt;
