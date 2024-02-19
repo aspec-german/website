@@ -24,15 +24,15 @@ spezifisch oder essentiell sind.&lt;/p&gt;
 &lt;h2 id=&#34;faq--frequently-asked-questions&#34;&gt;FAQ – Frequently Asked Questions &lt;a href=&#34;#faq--frequently-asked-questions&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;ich-klicke-in-neu-hier-auf-ok-aber-nichts-tut-sich-was-soll-ich-tun&#34;&gt;Ich klicke in #neu-hier auf &amp;#x1f197;, aber nichts tut sich. Was soll ich tun? &lt;a href=&#34;#ich-klicke-in-neu-hier-auf-ok-aber-nichts-tut-sich-was-soll-ich-tun&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Bitte klicke auf das &amp;#x1f197; unter der Nachricht in &lt;a href=&#34;https://discord.com/channels/690184051939606582/801939707738587138&#34;&gt;#neu-hier &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;FAQ_OK-1.png&#34; alt=&#34;Die Discord-Oberfläche mit offenem neu-hier-Kanal und Hervorhebung der OK-Reaktion&#34;&gt;
-&lt;img src=&#34;FAQ_OK-2.png&#34; alt=&#34;Die Discord-Oberfläche nach Klicken auf OK mit deutlich mehr freigeschalteten Kanälen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Die Discord-Oberfläche mit offenem neu-hier-Kanal und Hervorhebung der OK-Reaktion&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/FAQ_OK-1.png&#34;&gt;
+&lt;img alt=&#34;Die Discord-Oberfläche nach Klicken auf OK mit deutlich mehr freigeschalteten Kanälen&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/FAQ_OK-2.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Wenn du unter der Nachricht kein &amp;#x1f197; siehst, ist die Anzeige der
 Reaktionen bei dir ausgeschaltet. Gehe dazu in deinen Einstellungen auf
 APP-Einstellungen &amp;gt; Text &amp;amp; Bilder und aktiviere unter dem Punkt &lt;code&gt;EMOJI&lt;/code&gt;
 die Option &amp;ldquo;Emoji-Reaktionen bei Nachrichten anzeigen&amp;rdquo;. Das &amp;#x1f197; müsste
 nun sichtbar sein.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;FAQ_OK-3.png&#34; alt=&#34;Hervorhebung des Zahnrad-Symbols am unteren Rand der Discord-Oberfläche&#34;&gt;
-&lt;img src=&#34;FAQ_OK-4.png&#34; alt=&#34;Einstellungsmenü, in dem die Kategorie &amp;lsquo;Text &amp;amp; Bilder&amp;rsquo; aufgeklappt ist&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Hervorhebung des Zahnrad-Symbols am unteren Rand der Discord-Oberfläche&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/FAQ_OK-3.png&#34;&gt;
+&lt;img alt=&#34;Einstellungsmenü, in dem die Kategorie &amp;lsquo;Text &amp;amp; Bilder&amp;rsquo; aufgeklappt ist&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/FAQ_OK-4.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Solltest du auf das richtige &amp;#x1f197; geklickt haben, aber nichts passiert,
 dann ist möglicherweise unser Bot offline. Gib in
 &lt;a href=&#34;https://discord.com/channels/690184051939606582/690184051939606586&#34;&gt;#willkommen &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt; Bescheid, dort hilft dir jemand.&lt;/p&gt;
@@ -86,8 +86,8 @@ die nächste Frage).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Servername (auch Serverprofil oder Server-Nickname genannt):&lt;/strong&gt; Du
 kannst auf dem Server einen anderen Namen benutzen, der nicht der Name
 deines Accounts ist, indem du dein Serverprofil bearbeitest.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;servername.png&#34; alt=&#34;Nach Klick auf Aspec\*German ganz oben befindet sich hier die Einstellung &amp;ldquo;Serverprofil bearbeiten&amp;rdquo;&#34;&gt;
-&lt;img src=&#34;servername_change.png&#34; alt=&#34;Hier kann pro Server der Server-Nickname und Pronomen angepasst werden&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Nach Klick auf Aspec*German ganz oben befindet sich hier die Einstellung &amp;ldquo;Serverprofil bearbeiten&amp;rdquo;&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/servername.png&#34;&gt;
+&lt;img alt=&#34;Hier kann pro Server der Server-Nickname und Pronomen angepasst werden&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/servername_change.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Mehr Bergiffe und Erklärungen findest du in unserem &lt;a href=&#34;https://aspecgerman.de/community/glossar/&#34;&gt;Glossar&lt;/a&gt;.&lt;/p&gt;
@@ -103,13 +103,13 @@ Möglichkeiten, Menschen direkt zu pingen:&lt;/p&gt;
 auf &lt;code&gt;@AN&lt;/code&gt; bzw. &lt;code&gt;@ON&lt;/code&gt; ausstellen. Alternativ kann - zumindest in der
 Desktop-App - die Shift-Taste gedrückt werden, während auf &amp;ldquo;Antworten&amp;rdquo;
 bzw. &amp;ldquo;Reply&amp;rdquo; geklickt wird.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;FAQ_ping-1.png&#34; alt=&#34;Unterer Rand der Discord-GUI mit Markierung des @ON Buttons&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Unterer Rand der Discord-GUI mit Markierung des @ON Buttons&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/FAQ_ping-1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Es gibt einige Menschen, die aus verschiedenen Gründen nicht gepingt
 werden möchten. Auf dem Server haben wir deswegen &amp;ldquo;gelbe Rollen&amp;rdquo;, die
 beschreiben, wenn Menschen nicht gepingt werden wollen und sich schnell
 über das gelbe Ausrufezeichen (&lt;i class=&#39;fa-solid fa-exclamation   &#39; style=&#39;color:#d2e700&#39; aria-hidden=&#39;true&#39; &gt;&lt;/i&gt;) neben den Usernamen erkennen lassen. Bitte achte
 darauf, diese Personen nicht zu pingen.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;FAQ_ping-2.png&#34; alt=&#34;Darstellung aller Rollen eines members mit Hervorhebung der no-pings,no-@-Rolle&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Darstellung aller Rollen eines members mit Hervorhebung der no-pings,no-@-Rolle&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/FAQ_ping-2.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;ich-möchte-auf-eine-nachricht-mit-einem-emoji-reagieren-aber-nichts-passiert-was-ist-los&#34;&gt;Ich möchte auf eine Nachricht mit einem Emoji reagieren, aber nichts passiert. Was ist los? &lt;a href=&#34;#ich-m%c3%b6chte-auf-eine-nachricht-mit-einem-emoji-reagieren-aber-nichts-passiert-was-ist-los&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Möglicherweise hat dich die Person blockiert, von der die Nachricht
 stammt (s. &lt;a href=&#34;#blockierungen&#34;&gt;Blockierungen&lt;/a&gt;). Das kann aus ganz
@@ -132,7 +132,7 @@ Zuhörer*innen&lt;/li&gt;
 &lt;p&gt;Mit &amp;ldquo;Opt-Out&amp;rdquo; hast du die Möglichkeit, alle Kanäle einer Kategorie
 auszublenden, indem du sie stumm schaltest. Der folgende Screenshot
 verdeutlicht dies:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;FAQ_opt-out.png&#34; alt=&#34;Komplette Kategorie stumm schalten&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Komplette Kategorie stumm schalten&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/FAQ_opt-out.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Eine Anleitung für einzelne Kanäle findest du &lt;a href=&#34;https://support.discord.com/hc/de/articles/209791877&#34;&gt;auf der offiziellen
 Discord-Website &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;es-sind-mir-zu-viele-kanäle&#34;&gt;Es sind mir zu viele Kanäle! &lt;a href=&#34;#es-sind-mir-zu-viele-kan%c3%a4le&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
@@ -143,15 +143,15 @@ Discord-Website &lt;i class=&#39;fa-solid fa-up-right-from-square fa-sm&#39;&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Entferne dann das Häkchen bei &amp;ldquo;Alle Kanäle anzeigen&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;zuviel_alle-kanaele.png&#34; alt=&#34;Nach Klick auf Aspec\*German ganz oben befindet sich hier die Einstellung &amp;ldquo;Alle Kanäle anzeigen&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Nach Klick auf Aspec*German ganz oben befindet sich hier die Einstellung &amp;ldquo;Alle Kanäle anzeigen&amp;rdquo;&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/zuviel_alle-kanaele.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Du kannst dann immer noch über &amp;ldquo;Kanäle durchstöbern&amp;rdquo; die ausgeblendeten
 Kanäle finden. Hier sind alle Kanäle aufgelistet, zu denen du mit deiner
 Rolle Zugang hast.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;zuviel_stoebern.png&#34; alt=&#34;&amp;ldquo;Kanäle durchstöbern&amp;rdquo; in der linken Seitenleiste&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&amp;ldquo;Kanäle durchstöbern&amp;rdquo; in der linken Seitenleiste&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/zuviel_stoebern.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Setzte nun ein Häkchen bei den Kanälen, die du sehen möchtest (Screenshot von der Kanalübersicht mit und ohne Häkchen)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;zuviel_auswahl.png&#34; alt=&#34;Auswahlmöglichkeiten unter &amp;ldquo;Kanäle durchstöbern&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Auswahlmöglichkeiten unter &amp;ldquo;Kanäle durchstöbern&amp;rdquo;&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/zuviel_auswahl.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;relevante-funktionen-von-discord&#34;&gt;Relevante Funktionen von Discord &lt;a href=&#34;#relevante-funktionen-von-discord&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
@@ -209,7 +209,7 @@ auf allen Servern genutzt wird. Allerdings kann dieser auch pro Server
 unterschiedlich sein. Das geht z.B. mit dem Befehl &lt;code&gt;/nick&lt;/code&gt; in einem
 beliebigen Kanal auf dem entsprechenden Server, gefolgt vom neuem
 Namen:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;nick.png&#34; alt=&#34;Nickname ändern&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Nickname ändern&#34; src=&#34;https://aspecgerman.de/discord/discord-anleitungen/nick.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Letzte Nachricht editieren&lt;br&gt;
