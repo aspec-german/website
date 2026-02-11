@@ -1104,7 +1104,7 @@ die aromantisch oder auf dem aromantischen Spektrum sind).&lt;/p&gt;
 verstehen, einzuordnen und in Worte zu fassen – oder auch, sie
 überhaupt erst als solche zu erkennen.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&#34;attachments grey&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;attachments grey&#34;&gt;
   &lt;div class=&#34;attachments-label&#34;&gt;
     &lt;i class=&#34;fa-solid fa-paperclip&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
     Anhänge
@@ -1117,6 +1117,15 @@ verstehen, einzuordnen und in Worte zu fassen – oder auch, sie
   &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div class=&#34;attachments grey&#34;&gt;
+  &lt;div class=&#34;attachments-label&#34;&gt;
+    &lt;i class=&#34;fa-solid fa-paperclip&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+    Anhänge
+  &lt;/div&gt;
+  &lt;div class=&#34;attachments-files&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
       
     </item>
